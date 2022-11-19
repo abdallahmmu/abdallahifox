@@ -2,7 +2,7 @@
 Front-end Developer
 -------------------
 
-A Motivated and self-educated Front-end Web Developer Looking for a challenging Environment to work with. interested in building websites And User Interfaces By converting The Designs into Websites Or Web Applications, Looking to be a Professional front-end Developer
+A Motivated and self-educated Front-end Web Developer. interested in building websites And User Interfaces By converting The Designs into Websites Or Web Applications, Looking to be a Professional front-end Developer
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [Portfolio](https://abdallahqenawy.tk/)
