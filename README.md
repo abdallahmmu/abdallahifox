@@ -2,7 +2,7 @@
 Full Stack Developer
 -------------------
 
-A Motivated and self-educated Full Stack Web Developer. interested in building websites And User Interfaces By converting The Designs into Websites Or Web Applications, Looking to be a Professional Full stack Developer
+A Motivated Full Stack Web Developer. interested in building websites And User Interfaces By converting The Designs into Websites Or Web Applications, Looking to be a Professional Full stack Developer
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [abdallahiifox@gmail.com](mailto:abdallahiifox@gmail.com)
